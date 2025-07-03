@@ -147,7 +147,7 @@ root.title("Image/Video to ASCII Converter")
 root.geometry("1100x730")
 style = ttk.Style()
 
-sv_ttk.set_theme(darkdetect.theme())
+sv_ttk.set_theme("light")
 
 # --- Top Frame ---
 top_frame = ttk.Frame(root, padding=10)
