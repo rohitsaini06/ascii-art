@@ -1,5 +1,0 @@
-/mnt/d/Projects/cpp/ascii_art/build/CMakeFiles/AsciiConverter.dir
-/mnt/d/Projects/cpp/ascii_art/build/CMakeFiles/edit_cache.dir
-/mnt/d/Projects/cpp/ascii_art/build/CMakeFiles/rebuild_cache.dir
-/mnt/d/Projects/cpp/ascii_art/build/CMakeFiles/AsciiConverter_autogen_timestamp_deps.dir
-/mnt/d/Projects/cpp/ascii_art/build/CMakeFiles/AsciiConverter_autogen.dir
