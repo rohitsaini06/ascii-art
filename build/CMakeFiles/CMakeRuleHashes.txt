@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+8ca4b9e4320261ce55bc0121cb4664c1 AsciiConverter_autogen/timestamp
+75e00e0cfb2f54e87c7e2ed981083963 CMakeFiles/AsciiConverter_autogen
+75e00e0cfb2f54e87c7e2ed981083963 CMakeFiles/AsciiConverter_autogen_timestamp_deps
